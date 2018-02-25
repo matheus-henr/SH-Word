@@ -1,0 +1,4 @@
+
+SH Word
+Aplicação para Android para gerenciar senhas.
+Salve suas senhas de maneiras simples e rapido. Cadastre uma senha master no aplicativo para pode entrar e gerenciar suas senhas pessoais, essa senha master só pode ser salva uma vez, trate de não esquece la.
